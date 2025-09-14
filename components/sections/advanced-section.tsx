@@ -72,7 +72,7 @@ div {
   };
 
   return (
-    <div className="mt-16 max-w-5xl mx-auto space-y-6">
+    <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
       {/* Encabezado con icono y descripción */}
       <div className="text-center">
         <div className="flex items-center justify-center mb-4">
@@ -153,6 +153,6 @@ div {
           className="w-full h-96"
         />
       </div>
-    </div>
+    </section>
   );
 }
