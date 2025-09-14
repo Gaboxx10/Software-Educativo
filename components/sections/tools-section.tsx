@@ -8,7 +8,7 @@ export default function ToolsSection() {
       title: "¿Qué es el Desarrollo Web?",
       description:
         "El desarrollo web es el proceso de crear y mantener sitios web y aplicaciones web que funcionan en internet.",
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop",
+      image: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg",
       details: [
         "Creación de interfaces",
         "Programación de funcionalidades",
