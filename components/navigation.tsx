@@ -30,7 +30,7 @@ export default function Navigation({ activeSection, onSectionChange }: Navigatio
             <div className="p-2 bg-primary/10 rounded-xl">
               <FaCode className="text-primary text-xl" />
             </div>
-            <span className="text-2xl font-semibold text-foreground tracking-tight">Desarrollo Web 💋</span>
+            <span className="text-2xl font-semibold text-foreground tracking-tight">Desarrollo Web</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-2">
