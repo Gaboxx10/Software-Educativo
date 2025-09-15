@@ -5,12 +5,12 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { FaGlobe, FaHistory, FaServer, FaSearch } from "react-icons/fa";
+import { FaGlobe, FaHistory, FaServer, FaSearch, FaNetworkWired, FaSync } from "react-icons/fa";
 
 export default function IntroSection() {
   const topics = [
     {
-      icon: FaHistory,
+      icon: FaNetworkWired,
       title: "¿Qué es la Web?",
       description:
         "La Web es un sistema de información global que, a través de internet, permite acceder y compartir documentos y recursos (como páginas, imágenes, videos y aplicaciones) conectados entre sí mediante enlaces y visualizados en navegadores web.",
@@ -26,7 +26,7 @@ export default function IntroSection() {
         "https://i.pinimg.com/1200x/3d/d5/94/3dd5947df9e8664ccaced6f31ffd7f1f.jpg",
     },
     {
-      icon: FaSearch,
+      icon: FaSync,
       title: "Evolución de la Web",
       description:
         "La evolución de la web se refiere a las distintas etapas de desarrollo que ha tenido Internet desde su creación, pasando de páginas estáticas de solo lectura (Web 1.0), a una web interactiva y social (Web 2.0), luego a una web más inteligente y descentralizada (Web 3.0) y, en un futuro, hacia una web totalmente integrada con la inteligencia artificial y el mundo físico (Web 4.0).",

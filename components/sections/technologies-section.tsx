@@ -24,7 +24,7 @@ export default function TechnologiesSection() {
       icon: FaHtml5,
       color: "text-orange-500",
       description: "Los pilares básicos de toda aplicación web",
-      image: "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg",
+      image: "https://i.pinimg.com/1200x/0d/13/46/0d1346fe637831714d4a0a704c4c48a8.jpg",
       technologies: [
         {
           name: "HTML",
@@ -80,7 +80,7 @@ export default function TechnologiesSection() {
       color: "text-green-500",
       description: "El motor que impulsa las aplicaciones",
       image:
-        "https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg",
+        "https://i.pinimg.com/736x/d2/b6/27/d2b6278888516d742ea799182401e31a.jpg",
       technologies: [
         {
           name: "Node.js",

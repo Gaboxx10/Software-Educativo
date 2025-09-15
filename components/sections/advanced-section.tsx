@@ -125,8 +125,7 @@ div {
           <textarea
             value={html}
             onChange={(e) => setHtml(e.target.value)}
-            className="w-full h-40 p-2 border border-border rounded-lg font-mono text-sm text-foreground bg-gray-900 text-white resize-none"
-            style={{ fontFamily: "'Fira Code', monospace" }}
+            className="w-full h-40 p-2 border border-border rounded-lg font-mono text-sm text-foreground bg-gray-900 text-white resize-none font-mono"
           />
         </div>
 
@@ -137,8 +136,7 @@ div {
           <textarea
             value={css}
             onChange={(e) => setCss(e.target.value)}
-            className="w-full h-40 p-2 border border-border rounded-lg font-mono text-sm text-foreground bg-gray-900 text-white resize-none"
-            style={{ fontFamily: "'Fira Code', monospace" }}
+            className="w-full h-40 p-2 border border-border rounded-lg font-mono text-sm text-foreground bg-gray-900 text-white resize-none font-mono"
           />
         </div>
       </div>

@@ -8,7 +8,7 @@ export default function RolesSection() {
       title: "Desarrollo Frontend",
       description:
         "Se enfoca en crear la interfaz visual y la experiencia del usuario que interactúa directamente con el sitio web.",
-      image: "https://images.pexels.com/photos/29445973/pexels-photo-29445973.jpeg",
+      image: "https://i.pinimg.com/1200x/53/8c/93/538c938b0f2f6c2fd919e1775c2d85d2.jpg",
       characteristics: ["Interfaz visual", "Experiencia de usuario", "Interactividad", "Responsive design"],
       importance: "Es la cara visible de cualquier aplicación web",
     },
@@ -17,7 +17,7 @@ export default function RolesSection() {
       title: "Desarrollo Backend",
       description:
         "Maneja la lógica del servidor, bases de datos y todo lo que ocurre 'detrás de escena' en una aplicación web.",
-      image: "https://images.pexels.com/photos/1624895/pexels-photo-1624895.jpeg",
+      image: "https://i.pinimg.com/736x/3b/c6/d8/3bc6d8648d3fa4a24ac8695a9bcf4737.jpg",
       characteristics: ["Lógica de negocio", "Bases de datos", "APIs", "Seguridad"],
       importance: "Es el cerebro que procesa y almacena información",
     },
@@ -26,7 +26,7 @@ export default function RolesSection() {
       title: "Desarrollo Full Stack",
       description:
         "Combina conocimientos de frontend y backend para crear aplicaciones web completas de principio a fin.",
-      image: "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg",
+      image: "https://i.pinimg.com/736x/7b/fd/87/7bfd875e85fbbed980e9df59bcde8579.jpg",
       characteristics: ["Visión completa", "Versatilidad", "Arquitectura", "Integración"],
       importance: "Permite entender todo el ecosistema web",
     },
@@ -35,7 +35,7 @@ export default function RolesSection() {
       title: "Diseño UX/UI",
       description:
         "Se centra en crear experiencias digitales intuitivas, atractivas y centradas en las necesidades del usuario.",
-      image: "https://images.pexels.com/photos/326518/pexels-photo-326518.jpeg",
+      image: "https://i.pinimg.com/1200x/a3/b7/ca/a3b7caa1211cee26fde1efc350fef49e.jpg",
       characteristics: ["Experiencia de usuario", "Interfaz visual", "Usabilidad", "Investigación"],
       importance: "Garantiza que la tecnología sea accesible y útil",
     },

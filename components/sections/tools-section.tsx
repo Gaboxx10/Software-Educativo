@@ -8,7 +8,7 @@ export default function ToolsSection() {
       title: "¿Qué es el Desarrollo Web?",
       description:
         "El desarrollo web es el proceso de crear y mantener sitios web y aplicaciones web que funcionan en internet.",
-      image: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg",
+      image: "https://i.pinimg.com/736x/d2/b6/27/d2b6278888516d742ea799182401e31a.jpg",
       details: [
         "Creación de interfaces",
         "Programación de funcionalidades",
@@ -21,7 +21,7 @@ export default function ToolsSection() {
       title: "Frontend vs Backend",
       description:
         "El frontend es lo que ven los usuarios, mientras que el backend maneja la lógica del servidor y las bases de datos.",
-      image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=250&fit=crop",
+      image: "https://i.pinimg.com/1200x/82/ca/89/82ca89cbb1536365d658abf414a098f4.jpg",
       details: [
         "Frontend: HTML, CSS, JavaScript",
         "Backend: Servidores, APIs, Bases de datos",
@@ -34,7 +34,7 @@ export default function ToolsSection() {
       title: "Tecnologías Web Modernas",
       description:
         "Las tecnologías web evolucionan constantemente para crear experiencias más rápidas, seguras e interactivas.",
-      image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=250&fit=crop",
+      image: "https://i.pinimg.com/1200x/0d/fa/e6/0dfae65f15d971b19689cd1288adb4e5.jpg",
       details: [
         "Frameworks modernos",
         "APIs y servicios web",
